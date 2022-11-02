@@ -1,0 +1,1 @@
+public interface IReferable { Guid Id { get; } }

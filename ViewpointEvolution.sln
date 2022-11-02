@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vpe.math.domain", "vpe.math.domain\vpe.math.domain.csproj", "{2ED18243-99CC-411D-9DB5-9CA146CAD503}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infro.Interfaces", "Infro.Interfaces\Infro.Interfaces.csproj", "{76ECF36C-261D-4D48-972D-A801B8867256}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2ED18243-99CC-411D-9DB5-9CA146CAD503}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ED18243-99CC-411D-9DB5-9CA146CAD503}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ED18243-99CC-411D-9DB5-9CA146CAD503}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ED18243-99CC-411D-9DB5-9CA146CAD503}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76ECF36C-261D-4D48-972D-A801B8867256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76ECF36C-261D-4D48-972D-A801B8867256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76ECF36C-261D-4D48-972D-A801B8867256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76ECF36C-261D-4D48-972D-A801B8867256}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
